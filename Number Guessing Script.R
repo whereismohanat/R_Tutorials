@@ -40,7 +40,7 @@ for (user_guess_found_in_vector in num_vec) {
     user_guess = as.integer(readline(prompt = "Enter a higher value"))
   } else {
     
-    print("Hurry, You guessed it right!!")
+    print("Hurray!! You guessed it right!!")
     
     # Step 6- Break function is used to break off the loop when a match is found.
     break
